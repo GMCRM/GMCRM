@@ -1,16 +1,10 @@
-## Hi there 👋
-
-<!--
-**GMCRM/GMCRM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Hello, I'm Matai Cross 👋
+I'm a junior software engineering student at BYUI with a passion for programming, technology, and continuous learning. I aspire to work as a software developer, focusing on building reliable and efficient software solutions.
+## Skills and Technologies
+- Programming Languages: Python, JavaScript, C#
+- Frameworks: Node.js, Express, React
+- Database: MySQL, Postgres
+- Version Control: Git, GitHub
+- Other: HTML, CSS, SASS
+- ## Projects
+- [Project 1 Name](https://github.com/yourusername/project1): A short description of the project and what technologies it uses.
