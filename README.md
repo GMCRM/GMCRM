@@ -17,8 +17,8 @@ I believe the best technology isn’t just well-engineered; it’s built to serv
 - Other: HTML, CSS, SASS
 
   
-- ## Projects
-- [Guitar Website V2]:
+ ## Projects
+###Guitar Website/Student Dashboard:
   
 🛠️ Technologies & Skills
 
@@ -38,8 +38,10 @@ I believe the best technology isn’t just well-engineered; it’s built to serv
 <img width="1840" height="1196" alt="Screenshot 2026-07-08 at 10 55 15 PM" src="https://github.com/user-attachments/assets/516e738d-cbfd-45cd-b91e-96d9a87f4f84" />
 
 
-Habit Tycoon Application:
+###Habit Tycoon Application:
 Frontend
+
+🛠️ Technologies & Skills
 
 * TypeScript (your primary language)
 * React
