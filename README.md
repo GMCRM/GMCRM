@@ -8,3 +8,17 @@ I'm a junior software engineering student at BYUI with a passion for programming
 - Other: HTML, CSS, SASS
 - ## Projects
 - [Guitar Website V2]([https://github.com/yourusername/project1](https://github.com/GMCRM/mvc_guitar_website)): Ongoing project that I am transitioning to have a Database and use the MVC model. Using EJS, JS, and Postgres among others.
+Habit Tycoon Application:
+Frontend
+
+* TypeScript (your primary language)
+* React
+* Ionic Framework
+* Capacitor (to package the app as a mobile app)
+* HTML/CSS (through Ionic components)
+
+Backend
+
+* Supabase
+    * PostgreSQL database
+    * Authentication
