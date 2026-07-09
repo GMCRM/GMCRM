@@ -18,17 +18,15 @@ I believe the best technology isn’t just well-engineered; it’s built to serv
 - ## Projects
 - [Guitar Website V2]:
   
-Frontend
+🛠️ Technologies & Skills
 
-* Next.js 
-* React 
-* TypeScript
-* Tailwind CSS 
-
-Backend
-
-* Next.js API Routes (full-stack application)
-* Supabase
+* Languages: TypeScript, JavaScript, SQL, HTML, CSS
+* Frontend: React, Next.js, Ionic, Tailwind CSS
+* Backend: Next.js API Routes, REST APIs, Supabase
+* Database: PostgreSQL, Supabase
+* Mobile: Ionic, Capacitor
+* Tools: Git, GitHub, VS Code, Node.js, Xcode
+* Other: AI-Assisted Development, Responsive Web Design, Agile/Scrum
 
 <img width="1840" height="1196" alt="Screenshot 2026-07-08 at 10 52 38 PM" src="https://github.com/user-attachments/assets/62b2b6c4-36a3-4a55-8dfc-3e41709ec79b" />
 <img width="1840" height="1196" alt="Screenshot 2026-07-08 at 10 53 17 PM" src="https://github.com/user-attachments/assets/9a4800f7-341f-45ce-ab99-c4e01ad2bd73" />
