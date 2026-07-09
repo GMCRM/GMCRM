@@ -1,5 +1,13 @@
-# Hello, I'm Matai Cross 👋
-I'm a junior software engineering student at BYUI with a passion for programming, technology, and continuous learning. I aspire to work as a software developer, focusing on building reliable and efficient software solutions.
+#Hi, I’m Matai 👋
+
+I’m Matai, an aspiring software engineer and full-stack developer with a passion for building technology that makes a positive impact. I enjoy creating applications that solve real problems, improve everyday life, and provide meaningful experiences for the people who use them. I’m also passionate about exploring how AI can enhance software, streamline development, and empower people to accomplish more.
+
+Beyond programming, I’m passionate about service, teaching, and helping others grow. Whether I’m mentoring, teaching guitar, volunteering, or collaborating on a team, I enjoy sharing what I know and helping people succeed. I believe the best software is built with empathy and a genuine desire to serve others.
+
+I’m currently pursuing a Bachelor’s degree in Software Engineering at BYU–Idaho while continuing to expand my skills through personal projects in web and mobile development. I’m always looking for opportunities to learn, embrace new challenges, and grow as both a developer and a person.
+
+I believe the best technology isn’t just well-engineered; it’s built to serve people.
+
 ## Skills and Technologies
 - Programming Languages: Python, JavaScript, C#
 - Frameworks: Node.js, Express, React
