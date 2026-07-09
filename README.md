@@ -8,12 +8,14 @@ I’m currently pursuing a Bachelor’s degree in Software Engineering at BYU–
 
 I believe the best technology isn’t just well-engineered; it’s built to serve people.
 
+
 ## Skills and Technologies
 - Programming Languages: Python, JavaScript, C#
 - Frameworks: Node.js, Express, React
 - Database: MySQL, Postgres
 - Version Control: Git, GitHub
 - Other: HTML, CSS, SASS
+
   
 - ## Projects
 - [Guitar Website V2]:
