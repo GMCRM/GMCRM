@@ -1,4 +1,4 @@
-#Hi, I’m Matai 👋
+# Hi, I’m Matai 👋
 
 I’m Matai, an aspiring software engineer and full-stack developer with a passion for building technology that makes a positive impact. I enjoy creating applications that solve real problems, improve everyday life, and provide meaningful experiences for the people who use them. I’m also passionate about exploring how AI can enhance software, streamline development, and empower people to accomplish more.
 
