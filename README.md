@@ -12,7 +12,7 @@ I'm a junior software engineering student at BYUI with a passion for programming
   
 Frontend
 
-* Next.js 15
+* Next.js 
 * React 
 * TypeScript
 * Tailwind CSS 
